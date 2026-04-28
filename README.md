@@ -56,7 +56,7 @@ fraud-detection-system/
 
 ### Clone the repository
 
-git clone <repository-url>  
+git clone <https://github.com/Asad9206/Fraud-Detection-Project>  
 cd fraud-detection-system  
 
 
